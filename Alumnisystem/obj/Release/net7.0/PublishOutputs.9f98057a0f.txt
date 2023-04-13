@@ -1,0 +1,12 @@
+S:\app\Alumnisystem.exe
+S:\app\appsettings.Development.json
+S:\app\appsettings.json
+S:\app\Alumnisystem.dll
+S:\app\Alumnisystem.deps.json
+S:\app\Alumnisystem.runtimeconfig.json
+S:\app\Alumnisystem.pdb
+S:\app\Microsoft.AspNetCore.OpenApi.dll
+S:\app\Microsoft.OpenApi.dll
+S:\app\Swashbuckle.AspNetCore.Swagger.dll
+S:\app\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\app\Swashbuckle.AspNetCore.SwaggerUI.dll
